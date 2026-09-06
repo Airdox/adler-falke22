@@ -1,0 +1,10 @@
+{
+  "name": "Remix Side by Side Live Transcription",
+  "description": "Echtzeit-Sprachtranskription mit Gemini Live API, zentriert um ein massives Eisenmikrofon mit authentischem Eisensound und dualer Live-Ansicht (Verbatim & Smart).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
