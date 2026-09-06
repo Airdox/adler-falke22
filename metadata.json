@@ -1,10 +1,6 @@
 {
-  "name": "Remix Side by Side Live Transcription",
-  "description": "Echtzeit-Sprachtranskription mit Gemini Live API, zentriert um ein massives Eisenmikrofon mit authentischem Eisensound und dualer Live-Ansicht (Verbatim & Smart).",
-  "requestFramePermissions": [
-    "microphone"
-  ],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "name": "Rekordbox DJ Audio Editor",
+  "description": "Professional Rekordbox-style DJ audio editor with beatgrid synchronization, real audio engine, XML parsing, palette clips, multi-track, and non-destructive editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
